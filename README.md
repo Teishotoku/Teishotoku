@@ -11,5 +11,3 @@ Im begginer web-dev, and linux user
 ![Css](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=Css3&logoColor=005195)
 ![Html](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=Html5&logoColor=D57A92)
 ![Rust](https://img.shields.io/badge/-Rust-090909?style=for-the-badge&logo=Rust&logoColor=FF0000)
-![Bash](https://img.shields.io/badge/-Bash-090909?style=for-the-badge&logo=Bash&logoColor=F8BD96)
-
