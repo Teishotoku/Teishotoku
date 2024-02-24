@@ -1,10 +1,10 @@
 ![Header](https://github.com/Teishotoku/Teishotoku/blob/main/tokyo-sunset.jpg)
 
-## ABOUT ME
+# <h1 align="center"> **ABOUT ME** </h1>
 
 Im begginer web-dev, and linux user
 
-## Languages and Tools
+##  <h1 align="center"> Languages and Tools </h1>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=83ADF0)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=347DBC)
