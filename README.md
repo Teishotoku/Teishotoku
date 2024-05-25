@@ -9,6 +9,7 @@ Im begginer web-dev, and linux NIXOS user
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=83ADF0)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=347DBC)
 ![Css](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=Css3&logoColor=005195)
+![Sass](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=Sass3&logoColor=ae5195)
 ![Html](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=Html5&logoColor=D57A92)
 ![Rust](https://img.shields.io/badge/-Rust-090909?style=for-the-badge&logo=Rust&logoColor=FF0000)
 ![Nixos](https://img.shields.io/badge/-Nixos-090909?style=for-the-badge&logo=Nixos&logoColor=89B4FA)
