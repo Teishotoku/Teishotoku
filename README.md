@@ -11,4 +11,4 @@ Im begginer web-dev, and linux NIXOS user
 ![Css](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=Css3&logoColor=005195)
 ![Html](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=Html5&logoColor=D57A92)
 ![Rust](https://img.shields.io/badge/-Rust-090909?style=for-the-badge&logo=Rust&logoColor=FF0000)
-![Nix](https://img.shields.io/badge/-Nix-090909?style=for-the-badge&logo=Nix&logoColor=89B4FA)
+![Nixos](https://img.shields.io/badge/-Nixos-090909?style=for-the-badge&logo=Nixos&logoColor=89B4FA)
