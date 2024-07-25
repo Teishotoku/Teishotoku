@@ -6,18 +6,18 @@ Im begginer web-dev, and linux NIXOS user
 
 ##  <h1 align="center"> Stack </h1>
 
-**Frameworks**
+**Frameworks**<br>
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=347DBC)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-090909?style=for-the-badge&logo=Vue.js&logoColor=A6E3A1)
 
-**languages**
+**languages**<br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=83ADF0)
 ![Css](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=Css3&logoColor=005195)
 ![Html](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=Html5&logoColor=D57A92)
 ![Rust](https://img.shields.io/badge/-Rust-090909?style=for-the-badge&logo=Rust&logoColor=FF0000)
 
-**Tools**
+**Tools**<br>
 ![Nixos](https://img.shields.io/badge/-Nixos-090909?style=for-the-badge&logo=Nixos&logoColor=89B4FA)
 ![Neovim](https://img.shields.io/badge/-Neovim-090909?style=for-the-badge&logo=Neovim&logoColor=6EB341)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker&logoColor=005195)
