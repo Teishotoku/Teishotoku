@@ -14,3 +14,11 @@ Im begginer web-dev, and linux NIXOS user
 ![Rust](https://img.shields.io/badge/-Rust-090909?style=for-the-badge&logo=Rust&logoColor=FF0000)
 ![Nixos](https://img.shields.io/badge/-Nixos-090909?style=for-the-badge&logo=Nixos&logoColor=89B4FA)
 ![Neovim](https://img.shields.io/badge/-Neovim-090909?style=for-the-badge&logo=Neovim&logoColor=6EB341)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Teishotoku&show_icons=true&theme=github_dark&hide_border=true&border_radius=20&include_all_commits=true&count_private=false" height="180" alt="stats graph" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teishotoku&layout=compact&theme=github_dark&border_radius=20&exclude_repo=spil-site-frontend&hide=html,css&hide_border=true" height="180" alt="languages graph" />
+</div>
+
+![TheMaxMur's GitHub Profile views](https://komarev.com/ghpvc/?username=Teishotoku&color=#8aadf4)
