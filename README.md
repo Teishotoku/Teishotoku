@@ -21,4 +21,4 @@ Im begginer web-dev, and linux NIXOS user
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teishotoku&layout=compact&theme=github_dark&border_radius=20&exclude_repo=spil-site-frontend&hide=html,css&hide_border=true" height="180" alt="languages graph" />
 </div>
 
-![TheMaxMur's GitHub Profile views](https://komarev.com/ghpvc/?username=Teishotoku&color=#8aadf4)
+![Teishotoku GitHub Profile views](https://komarev.com/ghpvc/?username=Teishotoku&color=#8aadf4)
