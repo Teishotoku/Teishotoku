@@ -21,6 +21,7 @@ Im begginer web-dev, and linux NIXOS user
 **Tools**<br>
 ![Nixos](https://img.shields.io/badge/-Nixos-090909?style=for-the-badge&logo=Nixos&logoColor=89B4FA)
 ![Neovim](https://img.shields.io/badge/-Neovim-090909?style=for-the-badge&logo=Neovim&logoColor=6EB341)
+![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma&logoColor=CDD6F4)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker&logoColor=005195)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-090909?style=for-the-badge&logo=Kubernetes&logoColor=83ADF0)
 
