@@ -4,7 +4,7 @@
 
 Im begginer web-dev, and linux NIXOS user
 
-##  <h1 align="center"> Stack </h1>
+## <h1 align="center"> Stack </h1>
 
 **Frameworks**<br>
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=347DBC)
@@ -15,6 +15,7 @@ Im begginer web-dev, and linux NIXOS user
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=83ADF0)
 ![Css](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=Css3&logoColor=005195)
 ![Html](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=Html5&logoColor=D57A92)
+![Php](https://img.shields.io/badge/-Php-090909?style=for-the-badge&logo=Php&logoColor=C6A0F6)
 ![Rust](https://img.shields.io/badge/-Rust-090909?style=for-the-badge&logo=Rust&logoColor=FF0000)
 ![Lua](https://img.shields.io/badge/-Lua-090909?style=for-the-badge&logo=Lua&logoColor=0034EA)
 
@@ -25,8 +26,8 @@ Im begginer web-dev, and linux NIXOS user
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker&logoColor=005195)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-090909?style=for-the-badge&logo=Kubernetes&logoColor=83ADF0)
 
+## <h1 align="center"> profile </h1>
 
-##  <h1 align="center"> profile </h1>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Teishotoku&show_icons=true&theme=github_dark&hide_border=true&border_radius=20&include_all_commits=true&count_private=false" height="180" alt="stats graph" />
 
