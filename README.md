@@ -1,4 +1,4 @@
-![Header](https://github.com/Teishotoku/Teishotoku/blob/main/tokyo-sunset.jpg)
+![Header](https://github.com/Teishotoku/Teishotoku/blob/main/desktop.png)
 
 # <h1 align="center"> **ABOUT ME** </h1>
 
