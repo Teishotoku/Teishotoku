@@ -24,6 +24,8 @@ Im begginer web-dev, and linux NIXOS user
 ![Php](https://img.shields.io/badge/-Php-090909?style=for-the-badge&logo=Php&logoColor=C6A0F6)
 ![Rust](https://img.shields.io/badge/-Rust-090909?style=for-the-badge&logo=Rust&logoColor=FF0000)
 ![Lua](https://img.shields.io/badge/-Lua-090909?style=for-the-badge&logo=Lua&logoColor=0034EA)
+![Bash](https://img.shields.io/badge/-Bash-090909?style=for-the-badge&logo=Bash&logoColor=b5afcc)
+![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=C&logoColor=325ffc)
 
 **Tools**<br>
 ![Nixos](https://img.shields.io/badge/-Nixos-090909?style=for-the-badge&logo=Nixos&logoColor=89B4FA)
