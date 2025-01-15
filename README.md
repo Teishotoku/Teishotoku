@@ -12,7 +12,7 @@ Im begginer web-dev, and linux NIXOS user
 ![Laravel](https://img.shields.io/badge/-Laravel-090909?style=for-the-badge&logo=Laravel&logoColor=fd2311)
 ![Svelte](https://img.shields.io/badge/-Svelte-090909?style=for-the-badge&logo=Svelte&logoColor=E95321)
 ![Next.js](https://img.shields.io/badge/-Next.js-090909?style=for-the-badge&logo=Next.js&logoColor=192371)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-090909?style=for-the-badge&logo=Nuxt.js&logoColor=39f361)
+![Nuxt](https://img.shields.io/badge/-Nuxt-090909?style=for-the-badge&logo=Nuxt&logoColor=39f361)
 
 **languages**<br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
