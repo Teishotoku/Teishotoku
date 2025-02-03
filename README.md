@@ -1,23 +1,22 @@
-<link href="./style.css" rel="stylesheet">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Victor+Mono:ital,wght@1,100..700&display=swap" rel="stylesheet">
 
-<h1 class="head" align="center"> About me </h1>
+<h1 style="color: #fab387; font-family: 'Victor Mono'" align="center"> About me </h1>
 
-<span class="prim">Hi. </span>
+<span style="color: #c6a0f6">Hi. </span>
 
-I can be called a mix of <span class="prim">web developer and devops</span>. I try to develop in both directions, although in fact it comes out spontaneously, just out of interest in different technologies in these areas.
+I can be called a mix of <span style="color: #c6a0f6">web developer and devops</span>. I try to develop in both directions, although in fact it comes out spontaneously, just out of interest in different technologies in these areas.
 
-My journey began with the introduction of <span class="prim"> unix-like systems</span>, which served as a funnel into the it sphere. Starting from the canonical, red hat, and gentoo distributions, I learned how to interact and manage my operating system.
+My journey began with the introduction of <span style="color: #c6a0f6"> unix-like systems</span>, which served as a funnel into the it sphere. Starting from the canonical, red hat, and gentoo distributions, I learned how to interact and manage my operating system.
 
 I find it interesting to automate all kinds of things, and I enjoy system administration.
 
 I try to spend my free time watching works of art like movies, paintings, and music.
 
-<span class="prim">From dumb hobbies:</span> political and historical disputes, computer games.
+<span style="color: #c6a0f6">From dumb hobbies:</span> political and historical disputes, computer games.
 
-<h1 class="head" align="center"> Stack </h1>
+<h1 style="color: #fab387; font-family: 'Victor Mono'" align="center"> Stack </h1>
 
 <b>Frontend</b><br>
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=347DBC)
@@ -68,16 +67,16 @@ I try to spend my free time watching works of art like movies, paintings, and mu
 ![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=C&logoColor=325ffc)
 ![Lisp](https://img.shields.io/badge/-lisp-090909?style=for-the-badge&logo=commonlisp)
 
-<h1 class="head" align="center"> git links </h1>
+<h1 style="color: #fab387; font-family: 'Victor Mono'" align="center"> git links </h1>
 
 <div class="center" align="center">
-<a href="https://github.com/Teishotoku">github</a>
-<a href="https://gitlab.com/Teishotoku">gitlab</a>
-<a href="https://codeberg.org/teishotoku">codeberg</a>
-<a href="https://gitea.com/Teishotoku">gitea</a>
+<a style="color: #c6a0f6" href="https://github.com/Teishotoku">github</a>
+<a style="color: #c6a0f6" href="https://gitlab.com/Teishotoku">gitlab</a>
+<a style="color: #c6a0f6" href="https://codeberg.org/teishotoku">codeberg</a>
+<a style="color: #c6a0f6" href="https://gitea.com/Teishotoku">gitea</a>
 </div>
 
-<h1 class="head" align="center"> statistic </h1>
+<h1 style="color: #fab387; font-family: 'Victor Mono'" align="center"> statistic </h1>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Teishotoku&show_icons=true&theme=github_dark&hide_border=true&border_radius=20&include_all_commits=true&count_private=true" height="180" alt="stats graph" />
@@ -86,37 +85,3 @@ I try to spend my free time watching works of art like movies, paintings, and mu
 </div>
 
 ![Teishotoku GitHub Profile views](https://komarev.com/ghpvc/?username=Teishotoku&color=orange)
-
-<style>
-:root{
-    --back: #191926;
-    --text: #cad3f5;
-    --prim: #fab387;
-    --blue: #7dc4e4;
-    --purp: #c6a0f6;
-}
-.markdown-body{
- background-color: var(--back);
- color: var(--text);
-}
-.head{
-  font-family: "Victor Mono";
-  color: var(--prim);
-}
-.prim{
-  color: var(--purp);
-}
-.io{
-  color: var(--purp);
-}
-.markdown-body a{
-  color: var(--purp);
-}
-.center{
-    width: 100%;
-    height: 10vh;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-}
-</style>
